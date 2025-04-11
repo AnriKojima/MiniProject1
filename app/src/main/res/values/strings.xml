@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Discount Calculator</string>
+    <string name="invalid_input">Invalid input. Try again.</string>
+    <string name="price_label">Price (Rp)</string>
+    <string name="discount_label">Discount (%)</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="result_label">Price after discount: Rp %1$s</string>
+</resources>

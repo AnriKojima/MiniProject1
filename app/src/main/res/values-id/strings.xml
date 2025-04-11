@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kalkulator Diskon</string>
+    <string name="invalid_input">Input tidak valid. Coba lagi.</string>
+    <string name="price_label">Harga (Rp)</string>
+    <string name="discount_label">Diskon (%)</string>
+    <string name="calculate_button">Hitung</string>
+    <string name="result_label">Harga setelah diskon: Rp %1$s</string>
+</resources>
