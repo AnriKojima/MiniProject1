@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Discount Calculator</string>
+    <string name="invalid_input">input not working</string>
+    <string name="price_label">price</string>
+    <string name="discount_label">discount</string>
+    <string name="calculate_button">count</string>
+    <string name="result_label">price after discount</string>
+</resources>
